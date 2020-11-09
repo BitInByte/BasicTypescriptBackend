@@ -1,0 +1,22 @@
+{
+  "name": "tsbasicclassexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon dist/app.js",
+    "watch:ts": "tsc -w"
+  },
+  "author": "BitInByte",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.8",
+    "@types/node": "^14.14.6",
+    "nodemon": "^2.0.6"
+  }
+}
