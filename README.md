@@ -26,12 +26,9 @@ This express backend approach is based on OOP concept. In my opinion, this makes
 
 ## Built With
 
-- React
-- Firebase
-- SASS (modules)
-- Prop-types
-- React-spring
-- Formik
+- NodeJS
+- Express
+- Typescript
 
 ## Contributing
 
